@@ -1,6 +1,8 @@
 # Thesis
 
 The process of 3D modified mean shift clustering 
+
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/110201018/181804415-9f238fb2-9b1d-48d1-9486-dd2ce5329564.gif)
 
 
